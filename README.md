@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning
+🌱 I’m currently learning Data Science, Machine Learning and Deep Learning
 
 
 ### Connect with me:
