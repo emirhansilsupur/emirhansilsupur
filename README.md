@@ -10,6 +10,6 @@
 
 ### Contact me:
 
-[G-mail][sr.emirhn@gmail.com]
+[sr.emirhn@gmail.com]
 
 
