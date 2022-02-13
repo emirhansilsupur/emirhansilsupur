@@ -8,6 +8,8 @@
 
 [Linkedin](https://www.linkedin.com/in/emirhansilsupur/)
 
+### Contact me:
 
+[G-mail][sr.emirhn@gmail.com]
 
 
