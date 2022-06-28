@@ -4,7 +4,6 @@
 
 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning
 
-⚡ I'm currently participating in Kodluyoruz & Carbon Consulting Data Science Bootcamp
 
 ### Connect with me:
 
