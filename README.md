@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎓 I graduated with a BSc in statistics from the Gazi University.
+🎓 I graduated with a BSc in Statistics from the Gazi University.
 
 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning
 
