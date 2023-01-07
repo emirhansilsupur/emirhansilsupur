@@ -5,16 +5,17 @@ Hi there! My name is **Emirhan Silsüpür** and I am a **data scientist** with a
 
 🎓 I graduated with a BSc in Statistics from the Gazi University.
 
-🌱 I’m currently learning Data Science, Machine Learning and Deep Learning
+💻 I’m currently learning :
+- <img src="pytorch-icon.jpg" width="64" height="32">
 
 
-### Goals
+### 🎯Goals
 
 
 As a data scientist, my goal is to use my skills and knowledge to drive positive change and make a meaningful impact through the use of data. I am constantly seeking out new challenges and opportunities to learn and grow in my field.
 
 
-### Technical Skills
+### 🧰Technical Skills
 
 - Python (NumPy, Pandas, SciKit-Learn, Matplotlib, Seaborn, Plotly)
 - SQL
@@ -22,7 +23,7 @@ As a data scientist, my goal is to use my skills and knowledge to drive positive
 - Tableau
 
 
-### Contact Me:
+### 📫Contact Me:
 
 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/emirhansilsupur/).
 
