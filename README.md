@@ -5,8 +5,7 @@ Hi there! My name is **Emirhan Silsüpür** and I am a **data scientist** with a
 
 🎓 I graduated with a BSc in Statistics from the Gazi University.
 
-💻 I’m currently learning :
-- <img src="pytorch-icon.jpg" width="64" height="32">
+💻 I’m currently learning   <img src="PyTorch-Dark.svg" width="20" height="20">PyTorch
 
 
 ### 🎯Goals
