@@ -5,7 +5,7 @@ Hi there! My name is **Emirhan Silsüpür** and I am a **data scientist** with a
 
 🎓 I have a B.Sc. in Statistics from the Gazi University.
 
-💻 I’m currently learning PyTorch
+💻 I’m currently learning Docker
 
 
 ### 🎯Objectives
