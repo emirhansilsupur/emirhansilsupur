@@ -16,7 +16,7 @@ As a data scientist, my goal is to use my skills and knowledge to drive positive
 
 ### 🧰Technical Skills
 
-- Python (NumPy, Pandas, SciKit-Learn, Matplotlib, Seaborn, Plotly)
+- Python (NumPy, Pandas, SciKit-Learn, Matplotlib, Seaborn, Plotly, PyTorch)
 - SQL
 - SPSS
 - Tableau
