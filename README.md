@@ -3,7 +3,7 @@
 
 Hi there! My name is **Emirhan Silsüpür** and I am a **data scientist** with a passion for using data to drive business decisions and solve real-world problems.
 
-🎓 I have a B.Sc. in Statistics from the Gazi University.
+🎓 I have a B.Sc. in Statistics from Gazi University.
 
 💻 I’m currently learning Docker
 
