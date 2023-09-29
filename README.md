@@ -19,7 +19,7 @@ As a data scientist, my goal is to use my skills and knowledge to drive positive
 - Python (NumPy, Pandas, SciKit-Learn, Matplotlib, Seaborn, Plotly, PyTorch)
 - SQL
 - SPSS
-- Tableau ([Check out my Tableau dashboards](https://public.tableau.com/app/profile/emirhansilsupur/vizzes))
+- Tableau --> [Check out my Tableau dashboards](https://public.tableau.com/app/profile/emirhansilsupur/vizzes)
 
 
 ### 📫Contact Me:
