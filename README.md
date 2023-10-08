@@ -23,7 +23,7 @@ As a data scientist, my goal is to use my skills and knowledge to drive positive
 
 ### 📫Contact Me:
 
-Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/emirhansilsupur/).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/emirhansilsupur/).
 
 I am always open to discussing new opportunities and collaborating on interesting data science projects. Thank you for visiting my GitHub profile!
 
