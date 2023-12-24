@@ -10,12 +10,12 @@ Hi there! My name is **Emirhan Silsüpür** and I am a **data scientist** with a
 ### 🎯Objectives
 
 
-As a data scientist, my goal is to use my skills and knowledge to drive positive change and make a meaningful impact through the use of data. I am constantly seeking out new challenges and opportunities to learn and grow in my field.
+As a statistician, I am dedicated to continuously enhancing my expertise in data analytics, with a strong focus on Data Science, Machine Learning, and Statistical Analysis. 
 
 
 ### 🧰Technical Skills
 
-- Python (NumPy, Pandas, SciKit-Learn, SciPy Matplotlib, Seaborn, Plotly, PyTorch)
+- Python (NumPy, Pandas, SciKit-Learn, SciPy Matplotlib, Seaborn, Plotly, PyTorch, Web Scraping (BeautifulSoup-Selenium))
 - SQL
 - SPSS
 - Tableau --> [Check out my Tableau dashboards](https://public.tableau.com/app/profile/emirhansilsupur/vizzes)
