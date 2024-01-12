@@ -5,6 +5,8 @@ Hi there! My name is **Emirhan Silsüpür** and I am a **data scientist** with a
 
 🎓 I have a B.Sc in Statistics from Gazi University.
 
+🌱 I’m currently learning [Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=DLWebGANsMain)
+
 
 
 ### 🎯Objectives
