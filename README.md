@@ -9,12 +9,6 @@ Hi there! My name is **Emirhan Silsüpür** and I am a **data scientist** with a
 
 
 
-### 🎯Objectives
-
-
-As a statistician, I am dedicated to continuously enhancing my expertise in data analytics, with a strong focus on Data Science, and Machine Learning. 
-
-
 ### 🧰Technical Skills
 
 - Python (NumPy, Pandas, SciKit-Learn, SciPy Matplotlib, Seaborn, Plotly, PyTorch, Web Scraping (BeautifulSoup-Selenium))
