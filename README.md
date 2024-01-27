@@ -9,7 +9,7 @@ Hi there! My name is **Emirhan Silsüpür** and I am a **data scientist** with a
 
 
 
-### 🧰Technical Skills
+### Technical Skills
 
 - Python (NumPy, Pandas, SciKit-Learn, SciPy Matplotlib, Seaborn, Plotly, PyTorch, Web Scraping (BeautifulSoup-Selenium))
 - SQL
@@ -18,11 +18,3 @@ Hi there! My name is **Emirhan Silsüpür** and I am a **data scientist** with a
 - Docker
   
 :computer: [Check out my HackerRank profile](https://www.hackerrank.com/dashboard)
-
-### 📫Contact Me:
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/emirhansilsupur/).
-
-I am always open to discussing new opportunities and collaborating on interesting data science projects. Thank you for visiting my GitHub profile!
-
-
