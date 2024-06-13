@@ -12,5 +12,5 @@ Hi there! My name is **Emirhan Silsüpür** and I am a **data scientist** with a
 - Python (NumPy, Pandas, SciKit-Learn, SciPy Matplotlib, Seaborn, Plotly, PyTorch, Web Scraping (BeautifulSoup-Selenium))
 - SQL
 - SPSS
-- Tableau --> [Check out my Tableau dashboards](https://public.tableau.com/app/profile/emirhansilsupur/vizzes)
+- Tableau
 - Docker
