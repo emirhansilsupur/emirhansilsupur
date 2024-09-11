@@ -17,7 +17,6 @@ Hi there! My name is **Emirhan Silsüpür** and I am a **data scientist** with a
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B4B4B?logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 ![SPSS](https://img.shields.io/badge/-SPSS-003A70?logo=ibm&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
