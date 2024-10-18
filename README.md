@@ -21,3 +21,5 @@ Hi there! My name is **Emirhan Silsüpür** and I am a **data scientist** with a
 ![SPSS](https://img.shields.io/badge/-SPSS-003A70?logo=ibm&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)
+
