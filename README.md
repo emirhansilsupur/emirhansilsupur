@@ -1,4 +1,4 @@
-## Data Scientist
+
 
 
 Hi there! My name is **Emirhan Silsüpür** and I am a **data enthusiast** with a passion for using data to drive business decisions and solve real-world problems.
