@@ -1,10 +1,9 @@
+<h1 align="left" style="font-family: 'Copperplate';">Emirhan Silsüpür</h1>
 
 
+Data enthusiast focused on solving real-world problems through machine learning and data science.
 
-Hi there! My name is **Emirhan Silsüpür** and I am a **data enthusiast** with a passion for using data to drive business decisions and solve real-world problems.
-
-
-### Technologies & Tools
+## Technical Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
@@ -21,5 +20,18 @@ Hi there! My name is **Emirhan Silsüpür** and I am a **data enthusiast** with 
 ![SPSS](https://img.shields.io/badge/-SPSS-003A70?logo=ibm&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)
+
+## Core Competencies
+
+- **Data Analysis & Visualization**: Transforming complex datasets into meaningful insights
+- **Machine Learning**: Developing and deploying ML models for real-world applications
+- **Deep Learning**: Experience with PyTorch for neural network implementations
+- **Web Scraping**: Creating automated data collection solutions
+- **Cloud Computing**: AWS services for scalable data solutions
+
+---
+<div align="center">
+  <i>Always learning, always growing in the world of data science!</i>
+</div>
 
