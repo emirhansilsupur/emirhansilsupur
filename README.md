@@ -31,7 +31,5 @@ Data enthusiast focused on solving real-world problems through machine learning 
 - **Cloud Computing**: AWS services for scalable data solutions
 
 ---
-<div align="center">
-  <i>Always learning, always growing in the world of data science!</i>
-</div>
+
 
